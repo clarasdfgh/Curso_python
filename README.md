@@ -13,7 +13,7 @@
 
 - Lectura 4: Condicionales 
 - Lectura 5: Estructura de datos
-- Lectura 6 Bucles 
+- Lectura 6: Bucles 
   
 
 ##### Programación procedimental y paquetes
